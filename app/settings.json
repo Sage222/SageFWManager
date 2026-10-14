@@ -1,0 +1,264 @@
+{
+  "IsPopupsEnabled": true,
+  "IsLoggingEnabled": false,
+  "Theme": "Dark",
+  "StartOnSystemStartup": false,
+  "CloseToTray": true,
+  "AutoRefreshIntervalMinutes": 10,
+  "IsTrafficMonitorEnabled": true,
+  "ShowAppIcons": true,
+  "AutoAllowSystemTrusted": false,
+  "AutoAllowWhitelistedPublishers": false,
+  "AutoAllowSystemSignedApps": false,
+  "AlertOnForeignRules": true,
+  "FilterPrograms": true,
+  "FilterServices": true,
+  "FilterUwp": true,
+  "FilterWildcards": true,
+  "FilterSystem": false,
+  "RulesSearchText": "",
+  "RulesSortColumn": -1,
+  "RulesSortOrder": 0,
+  "AuditSearchText": "",
+  "AuditSortColumn": -1,
+  "AuditSortOrder": 0,
+  "LiveConnectionsSortColumn": -1,
+  "LiveConnectionsSortOrder": 0,
+  "DashboardColumns": {
+    "dashIconColumn": {
+      "DisplayIndex": 0,
+      "Width": 32
+    },
+    "dashAppColumn": {
+      "DisplayIndex": 1,
+      "Width": 203
+    },
+    "dashServiceColumn": {
+      "DisplayIndex": 2,
+      "Width": 204
+    },
+    "dashDirectionColumn": {
+      "DisplayIndex": 3,
+      "Width": 67
+    },
+    "dashProtocolColumn": {
+      "DisplayIndex": 4,
+      "Width": 54
+    },
+    "dashPathColumn": {
+      "DisplayIndex": 5,
+      "Width": 285
+    },
+    "allowButtonColumn": {
+      "DisplayIndex": 6,
+      "Width": 90
+    },
+    "blockButtonColumn": {
+      "DisplayIndex": 7,
+      "Width": 90
+    },
+    "ignoreButtonColumn": {
+      "DisplayIndex": 8,
+      "Width": 90
+    }
+  },
+  "RulesColumns": {
+    "advIconColumn": {
+      "DisplayIndex": 0,
+      "Width": 32
+    },
+    "advNameColumn": {
+      "DisplayIndex": 1,
+      "Width": 187
+    },
+    "inboundStatusColumn": {
+      "DisplayIndex": 2,
+      "Width": 93
+    },
+    "outboundStatusColumn": {
+      "DisplayIndex": 3,
+      "Width": 94
+    },
+    "advProtocolColumn": {
+      "DisplayIndex": 4,
+      "Width": 74
+    },
+    "advLocalPortsColumn": {
+      "DisplayIndex": 5,
+      "Width": 112
+    },
+    "advRemotePortsColumn": {
+      "DisplayIndex": 6,
+      "Width": 113
+    },
+    "advLocalAddressColumn": {
+      "DisplayIndex": 7,
+      "Width": 141
+    },
+    "advRemoteAddressColumn": {
+      "DisplayIndex": 8,
+      "Width": 141
+    },
+    "advProgramColumn": {
+      "DisplayIndex": 9,
+      "Width": 234
+    },
+    "advServiceColumn": {
+      "DisplayIndex": 10,
+      "Width": 141
+    },
+    "advProfilesColumn": {
+      "DisplayIndex": 11,
+      "Width": 250
+    },
+    "advGroupingColumn": {
+      "DisplayIndex": 12,
+      "Width": 135
+    },
+    "advDomainsColumn": {
+      "DisplayIndex": 13,
+      "Width": 105
+    },
+    "advDescColumn": {
+      "DisplayIndex": 14,
+      "Width": 212
+    },
+    "dateAddedColumn": {
+      "DisplayIndex": 15,
+      "Width": 85
+    },
+    "autoAllowedColumn": {
+      "DisplayIndex": 16,
+      "Width": 56
+    }
+  },
+  "LiveConnectionsColumns": {
+    "connIconColumn": {
+      "DisplayIndex": 0,
+      "Width": 32
+    },
+    "connNameColumn": {
+      "DisplayIndex": 1,
+      "Width": 413
+    },
+    "connStateColumn": {
+      "DisplayIndex": 2,
+      "Width": 249
+    },
+    "connLocalAddrColumn": {
+      "DisplayIndex": 3,
+      "Width": 330
+    },
+    "connLocalPortColumn": {
+      "DisplayIndex": 4,
+      "Width": 165
+    },
+    "connRemoteAddrColumn": {
+      "DisplayIndex": 5,
+      "Width": 332
+    },
+    "connRemotePortColumn": {
+      "DisplayIndex": 6,
+      "Width": 166
+    },
+    "connPathColumn": {
+      "DisplayIndex": 7,
+      "Width": 497
+    }
+  },
+  "AuditColumns": {
+    "advNameColumn": {
+      "DisplayIndex": 1,
+      "Width": 79
+    },
+    "advInterventionColumn": {
+      "DisplayIndex": 2,
+      "Width": 99
+    },
+    "advStatusColumn": {
+      "DisplayIndex": 6,
+      "Width": 60
+    },
+    "advProtocolColumn": {
+      "DisplayIndex": 7,
+      "Width": 31
+    },
+    "advLocalPortsColumn": {
+      "DisplayIndex": 8,
+      "Width": 48
+    },
+    "advRemotePortsColumn": {
+      "DisplayIndex": 9,
+      "Width": 48
+    },
+    "advLocalAddressColumn": {
+      "DisplayIndex": 10,
+      "Width": 59
+    },
+    "advRemoteAddressColumn": {
+      "DisplayIndex": 11,
+      "Width": 60
+    },
+    "advProgramColumn": {
+      "DisplayIndex": 12,
+      "Width": 99
+    },
+    "advServiceColumn": {
+      "DisplayIndex": 13,
+      "Width": 60
+    },
+    "advProfilesColumn": {
+      "DisplayIndex": 14,
+      "Width": 40
+    },
+    "advGroupingColumn": {
+      "DisplayIndex": 15,
+      "Width": 59
+    },
+    "advDescColumn": {
+      "DisplayIndex": 16,
+      "Width": 119
+    },
+    "advPublisherColumn": {
+      "DisplayIndex": 17,
+      "Width": 100
+    },
+    "Type": {
+      "DisplayIndex": 3,
+      "Width": 397
+    },
+    "Rule": {
+      "DisplayIndex": 4,
+      "Width": 398
+    },
+    "OldRule": {
+      "DisplayIndex": 5,
+      "Width": 397
+    },
+    "advTimestampColumn": {
+      "DisplayIndex": 0,
+      "Width": 60
+    }
+  },
+  "AutoAllowExclusions": [
+    "C:\\Users\\SageDesk\\AppData\\Local\\Temp\\",
+    "C:\\Users\\SageDesk\\Downloads",
+    "C:\\Users\\SageDesk\\Desktop",
+    "C:\\Users\\SageDesk\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu",
+    "C:\\Users\\SageDesk\\AppData\\Local\\Temp",
+    "C:\\Users\\SageDesk\\AppData\\Local\\Microsoft\\Windows\\INetCache",
+    "C:\\WINDOWS\\Temp"
+  ],
+  "WindowLocation": {
+    "IsEmpty": false,
+    "X": 303,
+    "Y": 203
+  },
+  "WindowSize": {
+    "Height": 1213,
+    "IsEmpty": false,
+    "Width": 2394
+  },
+  "WindowState": 0,
+  "DnsRefreshIntervalMinutes": 4
+}
